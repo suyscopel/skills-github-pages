@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: "welcome to my blog"
+date: 05/12/2023
 ---
-
-*thank you for visit me*
